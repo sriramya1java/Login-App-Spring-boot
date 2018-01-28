@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringJPAMySQLAngular4
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sdeevi
+Implementation-Vendor-Id: com.javasampleapproach
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/jpa-mysql-an
+ gular-4/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
